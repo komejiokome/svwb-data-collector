@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Runtime outputs
+/data/*.sqlite
+/data/cache/
+/exports/latest.json
+/latest_summary.md
+
+# Virtual env
+.venv/
