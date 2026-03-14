@@ -1,4 +1,4 @@
-name: manual-official-cards
+name: name: manual-official-cards-sample
 
 on:
   workflow_dispatch:
